@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carla</h1>
-<h3 align="center">A passionate frontend developer living in Madrid, Spain</h3>
+<h3 align="center">A passionate web developer living in Madrid, Spain</h3>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/carla-ng?tab=repositories](https://github.com/carla-ng?tab=repositories)
 
-- ⚡ Fun fact: **My other passion besides coding is drawing**
+- ⚡ Fun fact: **my other passion besides coding is drawing**
 
 
 <br>
