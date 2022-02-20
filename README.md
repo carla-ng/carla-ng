@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working with **HTML, SCSS, JavaScript, jQuery, Smarty, PHP**
 
-- 🌱 I’m currently learning **Jest, Vue and I'm also interested in learning other JavaScript frameworks**
+- 🌱 I’m currently learning **Vue and I'm also interested in learning other JavaScript frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carla-ng?tab=repositories](https://github.com/carla-ng?tab=repositories)
 
