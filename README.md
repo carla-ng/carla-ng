@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/carla-ng?tab=repositories](https://github.com/carla-ng?tab=repositories)
 
-- ⚡ Fun fact about me: **my other passion besides coding is drawing**
+- ⚡ A little bit about me: **my hobbies include drawing, reading and playing video games**
 
 
 <br>
