@@ -4,7 +4,7 @@
 <br>
 
 
-- 🔭 I’m currently working with **HTML, CSS/Sass, JavaScript, Vue, jQuery and also some Smarty, PHP and MySQL**
+- 🔭 I’m currently working with **HTML, CSS/SCSS, JavaScript, Vue, jQuery and also some Smarty, PHP and MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carla-ng?tab=repositories](https://github.com/carla-ng?tab=repositories)
 
