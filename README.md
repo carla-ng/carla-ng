@@ -4,7 +4,7 @@
 <br>
 
 
-- 🔭 I’m currently working with **HTML, CSS/SCSS, JavaScript, Vue, jQuery and also some Smarty, PHP and MySQL**
+- 🔭 I’m currently working with **HTML, CSS/SCSS, JavaScript, Vue, jQuery and I'm also learning React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carla-ng?tab=repositories](https://github.com/carla-ng?tab=repositories)
 
@@ -28,6 +28,7 @@
 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
 
   <br>
